@@ -21,7 +21,7 @@
   } ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "github:djfabrix/passport-oauth2#bh",
   },
   "devDependencies": {
     "vows": "0.8.x"
