@@ -1,7 +1,7 @@
 {
   "name": "passport-instagram",
   "version": "1.0.0",
-  "description": "Instagram authentication strategy for Passport.",
+  "description": "Instagram authentication strategy for Passport. B Human patch",
   "keywords": ["passport", "instagram", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
